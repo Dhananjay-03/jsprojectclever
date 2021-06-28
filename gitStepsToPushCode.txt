@@ -1,0 +1,12 @@
+simply wants to learn fast how to create new repository and push your code on github see below:
+1.git init
+2.git add .
+3.git commit -m "initial commit"
+4.git remote add origin (write here your https of current repository).
+git push -m origin master
+
+
+to update changes in existing repository
+1.git add file name
+2.git commit -m "file name is updated"
+3.git push origin master.
